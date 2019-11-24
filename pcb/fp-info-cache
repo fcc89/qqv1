@@ -1,4 +1,4 @@
-16713280531180286
+16757593626066152
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5911,13 +5911,6 @@ Capacitor_THT
 C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
-0
-2
-2
-CMC-4015-40P
-MIC_CMC-4015-40P
-
-
 0
 2
 2
@@ -43369,8 +43362,8 @@ Phone_Jack_87180-062LF
 
 
 0
-6
-6
+2
+2
 digikey-footprints
 Photodiode_3mm_Radial
 http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
@@ -43672,6 +43665,13 @@ http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
 0
 4
 4
+digikey-footprints
+QFN-10-1EP_3x3mm
+
+
+0
+11
+11
 digikey-footprints
 QFN-20-1EP_3x3mm
 
@@ -44099,6 +44099,13 @@ http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
 0
 24
 24
+digikey-footprints
+Socket_DIP-28_7.62mm_Conn
+http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
+
+0
+28
+28
 digikey-footprints
 Socket_DIP-28_15.24mm_Conn
 http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
@@ -74949,6 +74956,27 @@ Abracon-ASDK-2.5x2mm
 4
 4
 VC
+Abracon-ASDK-2.5x2mm_hand-solder
+
+
+0
+4
+4
+VC
+Abracon-ASEM-3.2x2.5mm
+
+
+0
+4
+4
+VC
+Abracon-ASEM-3.2x2.5mm_hand-solder
+
+
+0
+4
+4
+VC
 AlphaOmega-DFN3.3x3.3-8L
 
 
@@ -75012,6 +75040,27 @@ DEM8045C
 2
 2
 VC
+DIODES-SO8-DMT6016
+
+
+0
+8
+8
+VC
+kyocera-CX5032GB
+
+
+0
+2
+2
+VC
+liteon-C4627JF
+
+
+0
+16
+16
+VC
 microchip-dfn-8pin-2x3mm
 
 
@@ -75025,6 +75074,34 @@ Microchip-QFP-64_10x10_Pitch0.5mm
 0
 64
 64
+VC
+Microchip-SOIJ-8-1.27mm
+
+
+0
+8
+8
+VC
+Microchip-SSOP28
+
+
+0
+28
+28
+VC
+Microchip-TQFP-100_14x14_Pitch0.5mm
+
+
+0
+100
+100
+VC
+microchip_TQFP-100_12x12_Pitch0.4mm
+
+
+0
+100
+100
 VC
 molex-0476420001
 
@@ -75061,6 +75138,20 @@ nichicon_radial_body10x16-5mm-pitch
 2
 2
 VC
+Omron G6DN-1A
+
+
+0
+4
+4
+VC
+Omron-XF2M-3015-1A
+30 Position FPC Connector Contacts, Top and Bottom 0.020" (0.50mm) Surface Mount, Right Angle
+fpc
+0
+32
+31
+VC
 onsemi-sod123fl
 
 
@@ -75074,6 +75165,48 @@ PANASONIC-EVQQ2B03W
 0
 4
 4
+VC
+phoenix_contact-therminal_block-2pos_PTSA1.5-2-3.5-F-1984963
+
+
+0
+2
+2
+VC
+phoenix_contact-therminal_block-3pos_PTSA1.5-3-3.5-F-1984976
+
+
+0
+3
+3
+VC
+phoenix_contact-therminal_block-4pos_PTSA1.5-4-3.5-F-1984989
+
+
+0
+4
+4
+VC
+phoenix_contact-therminal_block-12pos_PTSA1.5_12-3.5-F-1985069
+
+
+0
+12
+12
+VC
+phoenix_contact-therminal_block-13pos_PTSA1.5_13-3.5-F-1985072
+
+
+0
+13
+13
+VC
+phoenix_contact-therminal_block-16pos_PTSA1.5_16-3.5-F-1985108
+
+
+0
+16
+16
 VC
 Q1-out-A
 
@@ -75117,12 +75250,19 @@ SIP-12
 12
 12
 VC
-SOIC-8
+ST-DO214AA
 
 
 0
-8
-8
+2
+2
+VC
+texasInstruments-sop-28-PW_R-PDSO-G28
+
+
+0
+28
+28
 VC
 TexasInstruments-VQFN15-RNM0015A
 
@@ -75137,6 +75277,41 @@ TexasInstruments-VQFN15-RNM0015A-HandSolder
 0
 15
 15
+VC
+TexasInstruments_ads1261_VQFN-32_EP_5x5_Pitch0.5mm
+
+
+0
+40
+33
+VC
+TexasInstruments_DCU8_R-PDSO-G8_0.5mm
+
+
+0
+8
+8
+VC
+TexasInstruments_ISOW7843_SOIC-16
+
+
+0
+16
+16
+VC
+TexasInstruments_TMUX1574PWR_TSSOP-16
+
+
+0
+16
+16
+VC
+trinamic SILENTSTEPSTICK
+
+
+0
+16
+16
 VC
 VC-QQV1-PWR
 
@@ -75158,6 +75333,13 @@ VC-RES-0603-1608metric
 0
 2
 2
+VC
+VC-SOICbite-vcpinout
+
+
+0
+8
+8
 VC
 VCSM-m1
 
