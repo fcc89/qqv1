@@ -2197,7 +2197,7 @@ U 1 1 5D22FC7A
 P 22050 1950
 F 0 "J1" H 22100 2267 50  0000 C CNN
 F 1 "Conn_02x04_Odd_Even" H 22100 2176 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x04_P1.27mm_Vertical" H 22050 1950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x04_P2.00mm_Vertical" H 22050 1950 50  0001 C CNN
 F 3 "~" H 22050 1950 50  0001 C CNN
 	1    22050 1950
 	1    0    0    1   
