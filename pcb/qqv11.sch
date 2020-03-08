@@ -4081,4 +4081,8 @@ F 3 "~" H 6750 11900 50  0001 C CNN
 	1    6750 11900
 	1    0    0    -1  
 $EndComp
+Text Notes 9950 5250 0    50   Italic 10
+ERROR, need correction,  when using secondary oscilator connect de clock signal to SOSCO no SOSCI\n
+Text Notes 6450 12650 0    50   ~ 0
+ADD resistor to avoid problems when programing
 $EndSCHEMATC
